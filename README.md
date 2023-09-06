@@ -31,7 +31,7 @@ I am a mathematician turned full stack web developer, with a great interest in w
 * CI/CD: GitHub Workflows, SonarCloud.
 
 ### Publications 
-* [Bohmian insights into mathematical scattering theory](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
+* [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
 
 ### Contact
 * Feel free to reach me on LinkedIn: [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
