@@ -19,7 +19,7 @@
 
 ### Hola!
 
-I am a mathematician turned full stack web developer, with a great interest in web3/ZK proofs.
+I am a mathematician and physicist turned full stack web developer, with a great interest in web3/ZK proofs.
 
 ### Tech stack
 
