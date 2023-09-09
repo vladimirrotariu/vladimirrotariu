@@ -19,7 +19,7 @@
 
 ### Hola!
 
-I am a mathematician and physicist turned full stack web developer, with a great interest in web3/ZK proofs.
+I am a mathematician and physicist turned full stack web developer, now OPEN TO WORK.
 
 ### Tech stack
 
@@ -29,6 +29,10 @@ I am a mathematician and physicist turned full stack web developer, with a great
 * Testing: Jest + Testing Library (TDD principles), Cucumber.js (BDD principles).
 * OOP (SOLID principles).
 * CI/CD: GitHub Workflows, SonarCloud.
+
+### Other interests
+* web3.
+* ZK proofs.
 
 ### Publications 
 * [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
