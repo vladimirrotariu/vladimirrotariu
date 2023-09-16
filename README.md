@@ -31,6 +31,7 @@ I am a mathematician and physicist turned full stack web developer:
 * Testing: Jest + Testing Library (TDD principles), Cucumber.js (BDD principles).
 * OOP (SOLID principles).
 * CI/CD: GitHub Workflows, SonarCloud.
+* Docker/Kubernetes.
 
 ### Other interests
 * web3.
