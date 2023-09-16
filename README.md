@@ -19,7 +19,7 @@
 
 ### Hola!
 
-I am a mathematician and physicist turned full stack web developer, now OPEN TO WORK.
+I am a mathematician and physicist turned full stack web developer, now OPEN TO WORK & RELOCATION IN SPAIN (fully proficient in spoken.written SPANISH).
 
 ### Tech stack
 
