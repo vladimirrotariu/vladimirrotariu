@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&labelColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white&labelColor=764ABC" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Docker-white?logo=docker">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white&labelColor=2088FF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/SonarCloud-4E9BCD?style=flat&logo=sonarcloud&logoColor=white&labelColor=4E9BCD" alt="SonarCloud" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Solidity-%233c3c3d?style=flat&logo=solidity&logoColor=%233c3c3d&labelColor=%23ecf0f1&color=%23ecf0f1">
