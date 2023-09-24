@@ -1,6 +1,7 @@
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23ADD8E6?logo=python">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Sass-%23fadadd?style=flat&logo=Sass&labelColor=%23fadadd&color=%23fadadd">
