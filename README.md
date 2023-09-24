@@ -27,7 +27,7 @@ I am a mathematician and physicist turned full stack web developer:
 
 ### Tech stack
 
-* Core: TypeScript/JavaScript (ES2023), HTML5, CSS3/SASS.
+* Core: TypeScript/JavaScript (ES2023), Python, HTML5, CSS3/SASS.
 * Frameworks: Express.js, React.js, Node.js, Next.js, Bootstrap 5.
 * Database: MongoDB.
 * Testing: Jest + Testing Library (TDD principles), Cucumber.js (BDD principles).
