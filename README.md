@@ -22,7 +22,7 @@
 ### Hola!
 
 I am a mathematician and physicist turned full stack web developer:
-* OPEN TO WORK & RELOCATION IN SPAIN.
+* OPEN TO WORK & RELOCATION.
 * PROFICIENT IN SPANISH.
 
 ### Tech stack
