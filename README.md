@@ -27,15 +27,15 @@ I am a mathematician and physicist turned full stack web developer:
 
 ### Tech stack (click on names to see relevant projects)
 
-* Core: TypeScript/JavaScript (ES2023), Python, HTML5, CSS3/SASS.
-* Frameworks: Express.js, React.js, Node.js, Next.js, Bootstrap 5.
-* Database: MongoDB.
-* Testing: Jest + Testing Library (TDD principles), [Cucumber.js](https://github.com/vladimirrotariu/array-super-class-API) (BDD principles).
-* OOP (SOLID principles).
-* CI/CD: GitHub Workflows, SonarCloud.
-* Docker/Kubernetes.
+* Core: TypeScript/JavaScript (ES2023), [Python](https://github.com/vladimirrotariu/folder-synchronizer), [HTML5](https://github.com/vladimirrotariu/OOP-components-testing), [CSS3/SASS](https://github.com/vladimirrotariu/OOP-components-testing).
+* Frameworks: [Express.js](https://github.com/vladimirrotariu/contacts-mern-app), [React.js](https://github.com/vladimirrotariu/contacts-mern-app), [Node.js](https://github.com/vladimirrotariu/contacts-mern-app), [Next.js](https://github.com/vladimirrotariu/contacts-mern-app), [Bootstrap 5](https://github.com/vladimirrotariu/is-strict-equal-API).
+* Database: [MongoDB](https://github.com/vladimirrotariu/contacts-mern-app).
+* Testing: [Jest + Testing Library (TDD principles)](https://github.com/vladimirrotariu/contacts-mern-app), [Cucumber.js](https://github.com/vladimirrotariu/array-super-class-API) (BDD principles).
+* [OOP (SOLID principles)](https://github.com/vladimirrotariu/OOP-components-testing).
+* CI/CD: [GitHub Workflows](https://github.com/vladimirrotariu/contacts-mern-app), [SonarCloud](https://github.com/vladimirrotariu/contacts-mern-app).
+* [Docker](https://github.com/vladimirrotariu/folder-synchronizer).
 
-### Other interests
+### New interests
 * web3.
 * ZK proofs.
 
