@@ -37,7 +37,7 @@ I am a mathematician and physicist turned full stack web developer:
 
 ### New interests
 * web3.
-* ZK proofs.
+* ZK proofs (participant in Encode CLub's competitive ZK bootcamp).
 
 ### Publications 
 * [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
