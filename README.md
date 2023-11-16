@@ -33,7 +33,7 @@ I am a mathematician and physicist turned full stack web developer:
 * Testing: [Jest + Testing Library (TDD principles)](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/frontend/src/components/Contacts/Contact/Contact.test.tsx), [Cucumber.js](https://github.com/vladimirrotariu/array-super-class-API/blob/bcf4705fada26bfdbc3ebd56f7f0c73e3d6445ec/features/does_it_extend_Array_API.feature) (BDD principles).
 * [OOP (SOLID principles)](https://github.com/vladimirrotariu/OOP-components-testing/blob/main/src/ts/components/ListComponent/ListComponent.ts).
 * CI/CD: [GitHub Actions](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/audit.yaml), [SonarQube/SonarCloud](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/sonar.yaml).
-* [Docker](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/Dockerfile).
+* [Docker](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/Dockerfile), [Shell scripting/Bash](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.husky/pre-push).
 
 ### New interests
 * web3.
