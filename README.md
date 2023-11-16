@@ -27,13 +27,13 @@ I am a mathematician and physicist turned full stack web developer:
 
 ### Tech stack (click on names to see relevant projects)
 
-* Core: TypeScript/JavaScript (ES2023), [Python](https://github.com/vladimirrotariu/folder-synchronizer), [HTML5](https://github.com/vladimirrotariu/OOP-components-testing), [CSS3/SASS](https://github.com/vladimirrotariu/OOP-components-testing).
-* Frameworks: [Express.js](https://github.com/vladimirrotariu/contacts-mern-app), [React.js](https://github.com/vladimirrotariu/contacts-mern-app), [Node.js](https://github.com/vladimirrotariu/contacts-mern-app), [Next.js](https://github.com/vladimirrotariu/contacts-mern-app), [Bootstrap 5](https://github.com/vladimirrotariu/is-strict-equal-API).
-* Database: [MongoDB](https://github.com/vladimirrotariu/contacts-mern-app).
-* Testing: [Jest + Testing Library (TDD principles)](https://github.com/vladimirrotariu/contacts-mern-app), [Cucumber.js](https://github.com/vladimirrotariu/array-super-class-API) (BDD principles).
-* [OOP (SOLID principles)](https://github.com/vladimirrotariu/OOP-components-testing).
-* CI/CD: [GitHub Workflows](https://github.com/vladimirrotariu/contacts-mern-app), [SonarCloud](https://github.com/vladimirrotariu/contacts-mern-app).
-* [Docker](https://github.com/vladimirrotariu/folder-synchronizer).
+* Core: [TypeScript/JavaScript (ES2023)](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/frontend/src/components/Contacts/ContactList/ContactList.tsx), [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), [HTML5](https://github.com/vladimirrotariu/OOP-components-testing/blob/main/index.html), [CSS3/SASS](https://github.com/vladimirrotariu/OOP-components-testing/blob/main/src/sass/styles.scss).
+* Frameworks: [Express.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/backend/src/server/server.ts), [React.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/frontend/src/components/Contacts/NewContactForm/NewContactForm.tsx), [Node.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/backend/src/server/server.ts), [Next.js](https://github.com/vladimirrotariu/contacts-mern-app), [Bootstrap 5](https://github.com/vladimirrotariu/is-strict-equal-API).
+* Database: [MongoDB](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/backend/src/models/contacts-store-mongodb.ts).
+* Testing: [Jest + Testing Library (TDD principles)](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/frontend/src/components/Contacts/Contact/Contact.test.tsx), [Cucumber.js](https://github.com/vladimirrotariu/array-super-class-API/blob/bcf4705fada26bfdbc3ebd56f7f0c73e3d6445ec/features/does_it_extend_Array_API.feature) (BDD principles).
+* [OOP (SOLID principles)](https://github.com/vladimirrotariu/OOP-components-testing/blob/main/src/ts/components/ListComponent/ListComponent.ts).
+* CI/CD: [GitHub Actions](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/audit.yaml), [SonarQube/SonarCloud](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/sonar.yaml).
+* [Docker](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/Dockerfile).
 
 ### New interests
 * web3.
@@ -43,7 +43,7 @@ I am a mathematician and physicist turned full stack web developer:
 * [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
 
 ### Contact
-* Feel free to reach me on LinkedIn: [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
+* Feel free to reach me on LinkedIn for a chat: [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
 
 
 
