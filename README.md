@@ -38,7 +38,7 @@ I am a mathematician and physicist with experience as a data scientist, now inte
 * [Docker](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/Dockerfile), [Shell scripting/Bash](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.husky/pre-push).
 
 ## Data engineering
-* Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), Spark SQL, Scala (basics).
+* Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), Spark SQL, Scala.
 * Tools: Azure Databricks (Azure Data Lake gen2 & Azure Data Factory).
 * API: PySpark (Dataframes)
 
