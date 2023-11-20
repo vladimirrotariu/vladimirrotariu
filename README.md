@@ -19,15 +19,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Solidity-%233c3c3d?style=flat&logo=solidity&logoColor=%233c3c3d&labelColor=%23ecf0f1&color=%23ecf0f1">
 </div>
 
-### Hola!
+# Hola!
 
 I am a mathematician and physicist with experience as a data scientist, now interested in data engineering, and:
 * OPEN TO WORK & RELOCATION.
 * PROFICIENT IN SPANISH.
 
-### Tech stack (click on names to see relevant projects)
+## Tech stack (click on names to see relevant projects)
 
-## Web development
+### Web development
 
 * Core: [TypeScript/JavaScript (ES2023)](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/frontend/src/components/Contacts/ContactList/ContactList.tsx), [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), [HTML5](https://github.com/vladimirrotariu/OOP-components-testing/blob/main/index.html), [CSS3/SASS](https://github.com/vladimirrotariu/OOP-components-testing/blob/main/src/sass/styles.scss).
 * Frameworks: [Express.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/backend/src/server/server.ts), [React.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/frontend/src/components/Contacts/NewContactForm/NewContactForm.tsx), [Node.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/backend/src/server/server.ts), [Next.js](https://github.com/vladimirrotariu/contacts-mern-app), [Bootstrap 5](https://github.com/vladimirrotariu/is-strict-equal-API).
@@ -37,12 +37,12 @@ I am a mathematician and physicist with experience as a data scientist, now inte
 * CI/CD: [GitHub Actions](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/audit.yaml), [SonarQube/SonarCloud](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/sonar.yaml).
 * [Docker](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/Dockerfile), [Shell scripting/Bash](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.husky/pre-push).
 
-## Data engineering
+### Data engineering
 * Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), Spark SQL, Scala.
 * Tools: Azure Databricks/Data Lake gen2/ Data Factory/Synapse Analytics.
-* API: PySpark (Dataframes)
+* API: PySpark (Dataframes).
 
-## Data science (for financial applications)
+### Data science (for financial applications)
 * Frameworks/libraries: PyTorch, Pyfolio, SciPy, Numpy, Pandas, Seaborn, os. 
 
 ### New interests
