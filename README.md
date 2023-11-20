@@ -39,7 +39,7 @@ I am a mathematician and physicist with experience as a data scientist, now inte
 
 ## Data engineering
 * Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), Spark SQL, Scala.
-* Tools: Azure Databricks (Azure Data Lake gen2 & Azure Data Factory).
+* Tools: Azure Databricks/Data Lake gen2/ Data Factory/Synapse Analytics.
 * API: PySpark (Dataframes)
 
 ## Data science (for financial applications)
