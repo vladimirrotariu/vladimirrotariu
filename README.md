@@ -21,11 +21,13 @@
 
 ### Hola!
 
-I am a mathematician and physicist turned full stack web developer:
+I am a mathematician and physicist with experience as a data scientist, now interested in data engineering, and:
 * OPEN TO WORK & RELOCATION.
 * PROFICIENT IN SPANISH.
 
 ### Tech stack (click on names to see relevant projects)
+
+## Web development
 
 * Core: [TypeScript/JavaScript (ES2023)](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/frontend/src/components/Contacts/ContactList/ContactList.tsx), [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), [HTML5](https://github.com/vladimirrotariu/OOP-components-testing/blob/main/index.html), [CSS3/SASS](https://github.com/vladimirrotariu/OOP-components-testing/blob/main/src/sass/styles.scss).
 * Frameworks: [Express.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/backend/src/server/server.ts), [React.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/frontend/src/components/Contacts/NewContactForm/NewContactForm.tsx), [Node.js](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/backend/src/server/server.ts), [Next.js](https://github.com/vladimirrotariu/contacts-mern-app), [Bootstrap 5](https://github.com/vladimirrotariu/is-strict-equal-API).
@@ -35,9 +37,17 @@ I am a mathematician and physicist turned full stack web developer:
 * CI/CD: [GitHub Actions](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/audit.yaml), [SonarQube/SonarCloud](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/sonar.yaml).
 * [Docker](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/Dockerfile), [Shell scripting/Bash](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.husky/pre-push).
 
+## Data engineering
+* Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), Spark SQL, Scala (basics).
+* Tools: Azure Data Lake gen2 (ADLS, creation & maintenance), Azure Data Factory (for data pipelines).
+* API: PySpark (Dataframes)
+
+## Data science (for financial applications)
+* Frameworks/libraries: PyTorch, Pyfolio, SciPy, Numpy, Pandas, Seaborn, os. 
+
 ### New interests
-* web3.
-* ZK proofs (participant in Encode CLub's competitive ZK bootcamp).
+* web3/blockchain technologies.
+* ZK proofs (participant in Encode Club's competitive ZK bootcamp).
 
 ### Publications 
 * [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
