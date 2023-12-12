@@ -21,11 +21,24 @@
 
 # Hola!
 
-I am a mathematician and physicist with experience as a data scientist, now interested in data engineering, and:
-* OPEN TO WORK & RELOCATION.
-* PROFICIENT IN SPANISH.
+Vladimir here! Mathematician and physicist by training, data engineer/scientist by vocation. 
+
+Also interested in quantitative finance (previous work experience in quantitative risk management), and web3 technologies (specifically smart contract development, and cybersecurity via ZK proofs)
+
+* Feel free to reach me on LinkedIn for a chat: [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
+
+## Publications 
+* [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
 
 ## Tech stack (click on names to see relevant projects)
+
+### Data engineering
+* Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), Spark SQL, Scala.
+* Tools: Azure Databricks/Data Lake gen2/ Data Factory/Synapse Analytics.
+* API: PySpark (Dataframes).
+
+### Data science (for financial applications)
+* Frameworks/libraries: PyTorch, Pyfolio, SciPy, Numpy, Pandas, Seaborn, os.
 
 ### Web development
 
@@ -37,23 +50,8 @@ I am a mathematician and physicist with experience as a data scientist, now inte
 * CI/CD: [GitHub Actions](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/audit.yaml), [SonarQube/SonarCloud](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.github/workflows/sonar.yaml).
 * [Docker](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/Dockerfile), [Shell scripting/Bash](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.husky/pre-push).
 
-### Data engineering
-* Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), Spark SQL, Scala.
-* Tools: Azure Databricks/Data Lake gen2/ Data Factory/Synapse Analytics.
-* API: PySpark (Dataframes).
 
-### Data science (for financial applications)
-* Frameworks/libraries: PyTorch, Pyfolio, SciPy, Numpy, Pandas, Seaborn, os. 
 
-### New interests
-* web3/blockchain technologies.
-* ZK proofs (participant in Encode Club's competitive ZK bootcamp).
-
-### Publications 
-* [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
-
-### Contact
-* Feel free to reach me on LinkedIn for a chat: [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
 
 
 
