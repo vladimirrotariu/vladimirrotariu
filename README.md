@@ -33,7 +33,7 @@ Also interested in quantitative finance (previous work experience in quantitativ
 ## Tech stack (click on names to see relevant projects)
 
 ### Data engineering
-* Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), SQL, Scala.
+* Core: [Python](https://github.com/vladimirrotariu/folder-synchronizer/blob/main/src/folder_synchronizer/folder_synchronizer.py), SQL, C++.
 
 ### Data science (for financial applications)
 * Frameworks/libraries: PyTorch, Pyfolio, SciPy, Numpy, Pandas, Seaborn, os.
