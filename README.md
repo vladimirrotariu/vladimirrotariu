@@ -9,7 +9,7 @@ Also interested in quantitative finance (previous work experience in quantitativ
 ## Publications 
 * [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
 
-## Focus personal projects:
+## Focus personal projects
 * a [library](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations) that automates the creation of Apache Beam pipelines, in order to efficiently orchestrate in-parallel Monte Carlo simulations
 
 ## Tech stack (click on names to see relevant projects)
