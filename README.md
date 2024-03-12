@@ -15,7 +15,7 @@ Also interested in quantitative finance (previous work experience in quantitativ
 ## Tech stack (click on names to see relevant projects)
 
 ### Data engineering
-* Core: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), SQL, [Java](https://github.com/vladimirrotariu/spark-utility-classes), [Shell scripting/Bash](https://github.com/vladimirrotariu/contacts-mern-app/blob/main/.husky/pre-push).
+* Core: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), SQL, [Java](https://github.com/vladimirrotariu/spark-utility-classes).
 * GCP data engineering producs suite: Cloud Dataflow, Google BigQuery, Cloud Composer, Cloud Dataproc.
 * Frameworks: [Apache Beam Python SDK](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations), [Apache Spark Java API](https://github.com/vladimirrotariu/spark-utility-classes), PySpark, Spark SQL, Apache Airflow Python API.
 * Databases: MySQL, PostgreSQL, MongoDB, Oracle.
