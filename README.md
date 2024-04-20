@@ -7,7 +7,7 @@ Also interested in quantitative finance (previous work experience in quantitativ
 * Feel free to reach me on LinkedIn for a chat: [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
 
 ## Publications 
-* [Bohmian insights into mathematical scattering theory, Vladimir Rotariu, Diederik Roest, Marcello Seri](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
+* [Bohmian insights into mathematical scattering theory](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
 
 ## Focus personal projects
 * a (now in a sketch stage) [Python package](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations) that automates the creation of Apache Beam pipelines, in order to efficiently orchestrate in-parallel Monte Carlo simulations.
