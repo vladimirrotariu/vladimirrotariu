@@ -19,4 +19,4 @@ Also interested in quantitative finance (previous work experience in quantitativ
 * GCP data engineering producs suite: Cloud Dataflow, Google BigQuery, Cloud Composer, Cloud Dataproc.
 * Frameworks: FastAPI, PyTorch, [Apache Beam Python SDK](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations), 
 * Databases: SurrealDB, MySQL, PostgreSQL, MongoDB, Oracle.
-* Tools: [Jupyter notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb).
+* Tools: [Jupyter notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb), Docker, Kubernetes.
