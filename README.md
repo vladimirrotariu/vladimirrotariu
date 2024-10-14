@@ -39,9 +39,9 @@ I am fluent in **Spanish** and currently reside in **Sevilla, Spain**.
 * A (now in a sketch stage) [Python package](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations) that automates the creation of Apache Beam pipelines, in order to efficiently orchestrate in-parallel Monte Carlo simulations.
 
 ## Tech Stack (click on names to see relevant projects)
-* **Programming Languages**: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), [Java](https://github.com/vladimirrotariu/spark-utility-classes/tree/main), various flavours of SQL.
+* **Programming Languages**: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), [Java](https://github.com/vladimirrotariu/spark-utility-classes/tree/main), various flavours of SQL, now experimenting with Rust...
 * **GCP Data Engineering Products Suite**: Cloud Dataflow, Google BigQuery, Cloud Composer, Cloud Dataproc...
 * **Frameworks**: FastAPI, PyTorch, scikit-learn, statsmodels, [Apache Beam](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations).
 * **Databases**: PostgreSQL, [SurrealDB](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/tree/main), CrateDB, InfluxDB, MongoDB.
-* **Tools**: [Jupyter Notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb), Docker, Kubernetes, Eclipse Paho MQTT.
-* **General knowledge** acquired through personal projects and competitive bootcamp in web development (React.js, Node.js, TypeScript, HTML, CSS).
+* **Tools**: [Jupyter Notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb), Docker, Kubernetes, numpy, pandas, Eclipse Paho MQTT.
+* **General knowledge** in web development acquired through personal projects and competitive bootcamps (React.js, Node.js, TypeScript, HTML, CSS, Solidity...).
