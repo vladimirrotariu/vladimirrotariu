@@ -1,23 +1,47 @@
-# Hola!
+# Hola! 👋
 
-Vladimir here! Mathematician and physicist by training, currently working as an AI engineer in the smart cities area.
+## About Me
+I’m **Vladimir**—a passionate **Mathematician** and **Physicist**, now thriving as an **AI Engineer** focused on **IoT** and **Digital Twins** for **Smart Cities**.
 
-Currently, my tasks revolve around designing predictive models for IoT data using **PyTorch/scikit-learn/statstmodels**, and integrating them in a REST API created with **FastAPI**. I am also occasionally in charge of data engineering tasks, such as writing highly efficient web crawlers using internal tools. 
+### What I Do
+In my current role, I:
+- Design and develop **AI models** for IoT data utilizing:
+  - **PyTorch**
+  - **scikit-learn**
+  - **statsmodels**
+- Integrate these models into a **FastAPI** REST API to deliver real-time predictions.
 
-I am fluent in **Spanish**, and currently residing in Sevilla, Spain.
+### Key Projects
+- **Automated Model Management**: Creating an internal tool that:
+  - Automates **training** and, post factum selection of the best AI models.
+- **Realtime Data Preprocessing Automation** with
+  - **pandas**
+  - **numpy**
+  - **pydantic**
+  - **FastAPI** 
 
-* Feel free to reach me on LinkedIn for a chat: [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
+### Additional Skills
+- Handle occasionally **data engineering tasks**, including:
+  - Developing efficient **web crawlers**.
+  - Writing scripts with **Eclipse Paho MQTT** to gather IoT sensor data.
+
+*Interested in the AI project that I currently work on? Check out [Proyecto GeDIA](https://servicio.grupocibernos.com/proyecto-gedia).*
+
+### Languages
+I am fluent in **Spanish** and currently reside in **Sevilla, Spain**.
 
 ## Publications 
 * [Bohmian insights into mathematical scattering theory](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
+  *A novel experimentally-verifiable exploration of an interpretation of **quantum physics** that recovers the position of a particle, albeit in a **statistical** manner.*
 
-## Focus personal projects
-* a series of microservices which lead to an AI-driven social media app, see for example the BLIP-large FastAPI appolication that is in charge of captioning user-uploaded images.
-* a (now in a sketch stage) [Python package](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations) that automates the creation of Apache Beam pipelines, in order to efficiently orchestrate in-parallel Monte Carlo simulations.
+## Focus Personal Projects
+* A series of microservices leading to an AI-driven social media app, see for example exploiting the BLIP-large model from **Hugging Face** that is in charge of captioning user-uploaded images.
+* A (now in a sketch stage) [Python package](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations) that automates the creation of Apache Beam pipelines, in order to efficiently orchestrate in-parallel Monte Carlo simulations.
 
-## Tech stack (click on names to see relevant projects)
-* Languages: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), various flavours of SQL.
-* GCP data engineering producs suite: Cloud Dataflow, Google BigQuery, Cloud Composer, Cloud Dataproc.
-* Frameworks: FastAPI, PyTorch, scikit-learn, statsmodels, [Apache Beam](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations), 
-* Databases: PostgreSQL, SurrealDB, CrateDB, InfluxDB, MongoDB, Eclipse Paho.
-* Tools: [Jupyter notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb), Docker, Kubernetes.
+## Tech Stack (click on names to see relevant projects)
+* **Programming Languages**: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), [Java](https://github.com/vladimirrotariu/spark-utility-classes/tree/main), various flavours of SQL.
+* **GCP Data Engineering Products Suite**: Cloud Dataflow, Google BigQuery, Cloud Composer, Cloud Dataproc...
+* **Frameworks**: FastAPI, PyTorch, scikit-learn, statsmodels, [Apache Beam](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations).
+* **Databases**: PostgreSQL, [SurrealDB](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/tree/main), CrateDB, InfluxDB, MongoDB.
+* **Tools**: [Jupyter Notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb), Docker, Kubernetes, Eclipse Paho MQTT.
+* **General knowledge** acquired through personal projects and competitive bootcamp in web development (React.js, Node.js, TypeScript, HTML, CSS).
