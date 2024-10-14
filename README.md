@@ -31,7 +31,7 @@ In my current role, I:
 I am fluent in **Spanish** and currently reside in **Sevilla, Spain**.
 
 ## Publications 
-* [Bohmian insights into mathematical scattering theory](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC)
+* [Bohmian insights into mathematical scattering theory](https://scholar.google.nl/citations?view_op=view_citation&hl=nl&user=PZCJoksAAAAJ&sortby=pubdate&citation_for_view=PZCJoksAAAAJ:aqlVkmm33-oC) -
   *A novel experimentally-verifiable exploration of an interpretation of **quantum physics** that recovers the position of a particle, albeit in a **statistical** manner.*
 
 ## Focus Personal Projects
