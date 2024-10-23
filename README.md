@@ -1,7 +1,7 @@
 # Hola! 👋
 
 ## About Me
-I’m **Vladimir**—a passionate **Mathematician** and **Physicist**, now working as an **AI Engineer** focused on **IoT** and **Digital Twins** for **Smart Cities**.
+I’m **Vladimir**—a passionate **Mathematician** and **Physicist**, now working as an **AI & Backend Engineer** focused on **IoT** and **Digital Twins** for **Smart Cities**.
 
 ### What I Do
 In my current role, I:
