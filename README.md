@@ -25,8 +25,8 @@ In my current role, I:
   *A novel experimentally-verifiable exploration of an interpretation of **quantum physics** that recovers the position of a particle, albeit in a **statistical** manner.*
 
 ## Focus Personal Projects
-* A **FastAPI **microservice the [BLIP-large model](https://github.com/sponteen/high_quality_image_captioner) from **Hugging Face** that is in charge of captioning user-uploaded images.
-* A (now in a sketch stage) [Python package](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations) that automates the creation of Apache Beam pipelines, in order to efficiently orchestrate in-parallel Monte Carlo simulations.
+* A **FastAPI** microservice the [BLIP-large model](https://github.com/sponteen/high_quality_image_captioner) from **Hugging Face** that is in charge of captioning user-uploaded images.
+* A [Python package](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations) that leverages Apache Beam in order to efficiently orchestrate in-parallel Monte Carlo simulations.
 
 ## Tech Stack (click on names to see relevant projects)
 * **Programming Languages**: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), [Java](https://github.com/vladimirrotariu/spark-utility-classes/tree/main), various flavours of SQL, now experimenting with Rust...
@@ -34,7 +34,4 @@ In my current role, I:
 * **Main Frameworks**: FastAPI, PyTorch, scikit-learn, statsmodels, [Apache Beam](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations).
 * **Databases**: PostgreSQL, Redis, [SurrealDB](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/tree/main), CrateDB, InfluxDB, MongoDB.
 * **Tools**: [Jupyter Notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb), Docker, Kubernetes, numpy, pandas, Eclipse Paho MQTT.
-* **General knowledge**:
-  - in web development acquired through personal projects and competitive bootcamps (React.js, Node.js, TypeScript, HTML, CSS, Solidity...).
-  - in writing efficient web crawlers
-  - in data-intensive apps
+* **General knowledge**: in web development acquired through personal projects and competitive bootcamps (React.js, Node.js, TypeScript, HTML, CSS, Solidity...)
