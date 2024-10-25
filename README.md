@@ -2,6 +2,7 @@
 
 ## About Me
 I’m **Vladimir** — a passionate **Mathematician** and **Physicist**, now working as an **AI & Backend Engineer** focused on **IoT** and **Digital Twins** for **Smart Cities**.
+
 My LinkedIn is [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
 
 ### What I Do
