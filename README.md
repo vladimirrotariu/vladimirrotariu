@@ -31,7 +31,7 @@ In my current role, I:
 * A [Python package](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations) that leverages Apache Beam in order to efficiently orchestrate in-parallel Monte Carlo simulations.
 
 ## Tech Stack (click on names to see relevant projects)
-* **Programming Languages**: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), [Java](https://github.com/vladimirrotariu/spark-utility-classes/tree/main), various flavours of SQL, now experimenting with Rust...
+* **Programming Languages**: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), [Java](https://github.com/vladimirrotariu/spark-utility-classes/tree/main), C++, various dialects of SQL.
 * **GCP Data Engineering Products Suite**: Cloud Dataflow, Google BigQuery, Cloud Composer, Cloud Dataproc...
 * **Main Frameworks**: FastAPI, PyTorch, scikit-learn, statsmodels, [Apache Beam](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations).
 * **Databases**: PostgreSQL, Redis, [SurrealDB](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/tree/main), CrateDB, InfluxDB, MongoDB.
