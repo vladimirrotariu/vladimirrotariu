@@ -8,9 +8,10 @@ My LinkedIn is [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-8
 ### What I Do
 In my current role, I:
 
-- Preprocess IoT data with:
+- Preprocess and validate IoT data with:
   - **pandas**/**polars**
   - **numpy**
+  - **Pydantic**
     
 - Design and develop **AI models** for IoT data utilizing:
   - **PyTorch**
