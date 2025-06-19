@@ -1,7 +1,9 @@
 # Hola! 👋
 
 ## About Me
-I’m **Vladimir** — a passionate **Mathematician** and **Physicist** working as a Data scientist & Backend engineer for a startup called [entropia.ai](https://entropia.ai/en)
+I’m Vladimir:
+ - a passionate **Mathematician** and **Physicist**
+ - currently working as a **Data scientist** & **Backend engineer** for a startup called [entropia.ai](https://entropia.ai/en)
 
 My LinkedIn is [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
 
@@ -29,7 +31,7 @@ In my current role, I:
   *A novel experimentally-verifiable exploration of an interpretation of **quantum physics** that recovers the position of a particle, albeit in a **statistical** manner.*
 
 ## Focus Personal Projects
-
+* The [first benchmark](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch) of the **SurrealML** framework.
 * A **FastAPI** microservice the [BLIP-large model](https://github.com/sponteen/high_quality_image_captioner) from **Hugging Face** that is in charge of captioning user-uploaded images.
 
 ## Tech Stack (click on names to see relevant projects)
