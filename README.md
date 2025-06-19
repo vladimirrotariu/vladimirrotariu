@@ -3,14 +3,16 @@
 ## About Me
 I’m Vladimir:
  - a passionate **Mathematician** and **Physicist**
- - currently working as a **Data scientist** & **Backend engineer** for a startup called [entropia.ai](https://entropia.ai/en)
+ - working as a **Data scientist** & **Backend engineer**
+ - fluent in **English** and **Spanish**
+ - residing in **CDMX**
 
 My LinkedIn is [Vladimir Rotariu](https://www.linkedin.com/in/vladimir-rotariu-87081622b/).
 
 ### What I Do
-In my current role, I:
+In my current role at the startup [entropia.ai](https://entropia.ai/en), I:
 
-- Preprocess data with with:
+- Preprocess data with:
   - **pandas**/**polars**
   - **numpy**/**pyarrow**
   - **Pydantic**
@@ -37,7 +39,7 @@ In my current role, I:
 ## Tech Stack (click on names to see relevant projects)
 * **Programming Languages**: [Python](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/parallel_simulations/parallel_simulations.py), [Java](https://github.com/vladimirrotariu/spark-utility-classes/tree/main), C++, Rust.
 * **GCP Data Engineering Products Suite**: Cloud Dataflow, Google BigQuery, Cloud Composer...
-* **Main Frameworks**: FastAPI, PyTorch, scikit-learn, statsmodels, CatBoost/XGBoost/LightGBM, [Apache Beam](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations).
+* **Main Frameworks/tools**: [FastAPI](https://github.com/sponteen/high_quality_image_captioner), PyTorch, scikit-learn, statsmodels, CatBoost/XGBoost/LightGBM, [Apache Beam](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations).
 * **Databases**: PostgreSQL, Redis, [SurrealDB](https://github.com/vladimirrotariu/surrealml-vs-onnx-vs-pytorch/tree/main), CrateDB, InfluxDB, MongoDB.
-* **Tools**: [Jupyter Notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb), Docker, Kubernetes, numpy, pandas, Eclipse Paho MQTT.
+* **Tools**: [Jupyter Notebooks](https://github.com/vladimirrotariu/parallel-monte-carlo-simulations/blob/main/demos/demo_coin_sequences.ipynb), Docker, Kubernetes, numpy, pandas, RabbitMQ (MQTT protocol).
 * **General knowledge**: in web development acquired through personal projects and competitive bootcamps (React.js, Node.js, TypeScript, HTML, CSS, Solidity...)
