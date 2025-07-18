@@ -4,6 +4,7 @@
 I’m Vladimir:
  - a passionate **Mathematician** and **Physicist**
  - working as a **Data scientist** & **Backend engineer**
+ - part-time open source contributions to **PyTorch**, **SurrealDB**...
  - fluent in **English** and **Spanish**
  - residing in **CDMX**
 
